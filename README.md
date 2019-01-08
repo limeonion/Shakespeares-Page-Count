@@ -12,7 +12,7 @@ Word count application in Spark
 #### 2) Counting with Pair RDD
 #### 3) Finding unique words and a mean value
 #### 4) Applying word count to a file ft. Shakespeare
-
+<br></br>
 ### Part 3
 Conducting a web server log analysis with Spark. Flexing that text analysis power.
 
